@@ -1,0 +1,2 @@
+MONGO_DB_PASS=mWwSHi2lfvYf37R3
+MONGO_DB_USER=abdisembada567
